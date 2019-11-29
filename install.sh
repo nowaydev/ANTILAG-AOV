@@ -17,4 +17,6 @@ mv -f  /sdcard/Android/obb/*kgvn/UNZIP/assets/AssetBundle /sdcard/ANTILAG/AssetB
 mv -f  /sdcard/Android/obb/*kgvn/UNZIP/assets/Sound /sdcard/ANTILAG/Sound
 cd /sdcard/Android/obb/com.garena.game.kgvn
 rm -rf UNZIP
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/Resources/1.32.1/Languages/*EN
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/Resources/1.32.1/Languages/*CN
 reboot
